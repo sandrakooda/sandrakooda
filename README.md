@@ -14,8 +14,6 @@ Welcome to my corner of GitHub — where code meets creativity 🚀
 ### 🌱 What I’m currently learning:
 - Data Structures & Algorithms for product-based roles 🧠
 - Python for Data Science & AI 📊
-- Docker, Kubernetes & CI/CD Pipelines 🐳⚙️
-- System Design & Scalable Architecture
 
 ---
 
