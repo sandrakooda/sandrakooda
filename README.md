@@ -50,15 +50,6 @@ where I love to build, collaborate, and create meaningful digital products.
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandrakooda/)
 - [Saleforce TrialHead](http://www.salesforce.com/trailblazer/a87tye586xprb7rpld)
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandrakooda&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandrakooda&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrakooda&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sandrakooda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
 Thanks for stopping by! Don’t forget to ⭐ some cool projects! 😊
