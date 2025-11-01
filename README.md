@@ -4,7 +4,7 @@
 
 
 💻 Computer Science Student at **Acharya Institute, Bangalore**  
-🌐 Aspiring **Full-Stack Web Developer**  
+🌐 Aspiring **Full-Stack Web Developer** AND **Data-Analyst** 
 🎤 Passionate Communicator | Ex-Debater | Lifelong Learner  
 🚀 Welcome to my corner of GitHub — where **code meets creativity**!
 
